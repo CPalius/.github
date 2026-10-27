@@ -1,7 +1,7 @@
 # CPalius
 
-### Next-generation Content Management Framework  
-*Yeni nesil içerik yönetim çerçevesi*
+### Enterprise application Core 
+*Kurumsal Uygulama Çekirdeği*
 
 Built on **PHP 8.2+** & **Symfony 7.4 LTS** — the bridge between heavy CMS platforms and frameworks you rebuild from scratch.
 
@@ -41,7 +41,7 @@ No Node.js required for core & admin. Modules live in `cp-content/` — the kern
 | Resource | Link |
 |:---------|:-----|
 | Product site | [cpalius.com](https://www.cpalius.com) |
-| Framework repo | [CPalius CMF](https://github.com/cpalius/CPalius-CMF) |
+| Framework repo | [CPalius CMF](https://github.com/CPalius/) |
 | Architecture laws | Manifesto inside the repo |
 | Contact | [hello@megabre.com](mailto:hello@megabre.com) |
 
